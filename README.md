@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/miteshp98/nft-preview-card-component-main)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://miteshp98.github.io/nft-preview-card-component-main/)
 
 ## My process
 
