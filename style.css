@@ -39,11 +39,11 @@
   width: 320px;
   height: 330px;
   margin: 20px;
-  background: url(images/image-equilibrium.jpg);
   background-size: cover;
   display: grid;
   place-items: center;
   border-radius: 15px;
+  background: url(images/image-equilibrium.jpg);
 }
 
 .nft-card-image {
