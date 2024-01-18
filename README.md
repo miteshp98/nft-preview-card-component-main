@@ -29,14 +29,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/nft-preview-card-component-main/assets/145320555/c7d2be81-3cb1-497c-82db-f91feabdf7aa)
+
+![csscode](https://github.com/miteshp98/nft-preview-card-component-main/assets/145320555/35e17a3d-1e61-49d0-9393-1b09250b9331)
+
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/miteshp98/nft-preview-card-component-main)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
 
